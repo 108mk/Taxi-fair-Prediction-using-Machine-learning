@@ -5,4 +5,4 @@
 ![alt text](https://github.com/108mk/Taxi-fair-Prediction-using-Machine-learning/blob/b61d597eb5401bd95eb31424d81441952ab50035/Codes/fare%20manhattan.png?raw=true)
 ![alt text](https://github.com/108mk/Taxi-fair-Prediction-using-Machine-learning/blob/b61d597eb5401bd95eb31424d81441952ab50035/Codes/fare%20brroklyn.png?raw=true)
 # Aknowledgements: 
-## We give credit to origin authors on Kaggle from where this problem statement has been originally taken. We consulted the approaches of authors such as Mr. Albert Breeman and Aiswarya Raamchandran. 
+## We give credit to origin authors on Kaggle from where this problem statement has been originally taken. We consulted the approaches of authors such as Mr. Albert Breeman, Aiswarya Raamchandran and Rini Christy.
